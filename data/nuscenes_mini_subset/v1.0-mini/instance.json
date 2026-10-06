@@ -1,0 +1,1458 @@
+[
+{
+"token": "ab8d210d019b44abae3c4e0eee6ce8ba",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 25,
+"first_annotation_token": "c0571ecf3f9a461db18a70f9a6883e4f",
+"last_annotation_token": "ede95c25b1354fc89ee592b3ff8d9380"
+},
+{
+"token": "3b19bb63d0924f4da3034819357d6c8b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 24,
+"first_annotation_token": "7381b60a2a9147518294969bf78412ec",
+"last_annotation_token": "da3d280eaf2a489b868dad83385b6ce0"
+},
+{
+"token": "77830a97d0ea4a8890cc590b9178d22a",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 5,
+"first_annotation_token": "3de4ecd84ee248df97770aeae0744495",
+"last_annotation_token": "b0bd7c18bc1346ddb6ca268a17eed7dc"
+},
+{
+"token": "63e58aab316d4496841c2b17d909a033",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 9,
+"first_annotation_token": "f828f95bc1c249ebad0b9f28455a3466",
+"last_annotation_token": "ab304027e78d42c0b2faca0db644d86d"
+},
+{
+"token": "8ce4fe54af77467d90c840465f69677f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 27,
+"first_annotation_token": "384b62794af74412affc7fa9dc2e052e",
+"last_annotation_token": "205bbfb4c905408c8be7f258d9645531"
+},
+{
+"token": "f4af7fd215ee47aa8b64bac0443d7be8",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 14,
+"first_annotation_token": "15632173f2444d8085860c9b819018da",
+"last_annotation_token": "591bc7fba8c4439e8cab3c0e2a83a92e"
+},
+{
+"token": "f2d9e6f194ee446eafc7a79fcb32994a",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 8,
+"first_annotation_token": "84f5cd207a524ff5a8b8f4ffaa37cc7d",
+"last_annotation_token": "acae8b33271843c0aae5e41c0b57ed06"
+},
+{
+"token": "afff27c4b3934c59837d2294137735d5",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 3,
+"first_annotation_token": "145dfc6637c446088ccdece610601cdc",
+"last_annotation_token": "975b42d2c0e54f28ba81b22c3317d265"
+},
+{
+"token": "68a40df2846e4298af0417ea12721b5c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 16,
+"first_annotation_token": "e912747998bb4485b44841c773d6ae7a",
+"last_annotation_token": "bb52b228d37c45109d82601887de3eb9"
+},
+{
+"token": "ab2c41511fd1408197b718a4bda692ac",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 6,
+"first_annotation_token": "404c7efea9604c3dafb8ca94aa59cfa2",
+"last_annotation_token": "31576ebf91d245c0a00d2500252d90a1"
+},
+{
+"token": "8d950466246b4200b5cc5aef80c03524",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 2,
+"first_annotation_token": "898a84d348e2407499405d21ca06c329",
+"last_annotation_token": "f3abbd3156da4f9ba6af612cfece65e8"
+},
+{
+"token": "1639701819844f8b836fb7709c7f4dc6",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 5,
+"first_annotation_token": "db137ae7dd674a2dae268fa9523dc6ba",
+"last_annotation_token": "80ef0b4ee1f94cbf9121a6e1956aebed"
+},
+{
+"token": "06509e54d29547119ed212877c7f310f",
+"category_token": "d772e4bae20f493f98e15a76518b31d7",
+"nbr_annotations": 19,
+"first_annotation_token": "9cb1952c13da468cb6121a286aec70af",
+"last_annotation_token": "7f0c8d5bc00f4dd28d41bd421a9ea26b"
+},
+{
+"token": "a14ab89288b74328b8a0721829f612ab",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 20,
+"first_annotation_token": "92238ce0e043414cb4af30be732c8793",
+"last_annotation_token": "8c2b9852d4fd42318d9d9b933a0584ab"
+},
+{
+"token": "58ead1aad9b544b4b8126d8723f2764f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 2,
+"first_annotation_token": "5bb0de6bd921428cb2507f034397ed99",
+"last_annotation_token": "a20f850827a04f9380da0bb3042a17bf"
+},
+{
+"token": "c560085506544941af6f891d8a23a6e1",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 3,
+"first_annotation_token": "59cfe8f1c1a2471da807a05f8294c7fd",
+"last_annotation_token": "bd7c6de24d924969850ee244cc4ac67b"
+},
+{
+"token": "fa107c6dd0dc4d15b94b86cbf5b990c0",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 26,
+"first_annotation_token": "cfc30e8bba1d43b3a32e8292adc4e7fc",
+"last_annotation_token": "631dde8452f64a039a60fdf076a1c398"
+},
+{
+"token": "996d9e039f7a4838ac48d5409ca89732",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 36,
+"first_annotation_token": "723a16467b2d4ac2bc8d2052c908a858",
+"last_annotation_token": "0c8e152031004c32bab8c20ad6e75f8a"
+},
+{
+"token": "c6439c068e7045898c3a4ef0a96dea45",
+"category_token": "b1c6de4c57f14a5383d9f963fbdcb5cb",
+"nbr_annotations": 12,
+"first_annotation_token": "508cc05ca40741e2b3bed860268c8f49",
+"last_annotation_token": "26371635189548be927ab5ccf12d72db"
+},
+{
+"token": "9e5f09bc19cd473dae219194ada64f3d",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 21,
+"first_annotation_token": "25741eb58b4341cdb6e3894d06fa9d0f",
+"last_annotation_token": "2bbdc3d1b6224428b4f41c129bd1aaa3"
+},
+{
+"token": "f5c0c1968ef0486cb3183e521841352f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 21,
+"first_annotation_token": "c6ddef6638ee4610b07cf0189abd689b",
+"last_annotation_token": "afc9790e2a424475a16839fb79f48265"
+},
+{
+"token": "e561b60694dc4514b6dddcfc5a5b6a90",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 16,
+"first_annotation_token": "5f0753b774d4471cbb2b4a4857f07bbb",
+"last_annotation_token": "14f93e5fd1d34d6d9f2b3bec5e46691d"
+},
+{
+"token": "4bee849ae27b40a684321dbc6f780872",
+"category_token": "dfd26f200ade4d24b540184e16050022",
+"nbr_annotations": 6,
+"first_annotation_token": "5df5a87528a946d3bd13bb5b110de61a",
+"last_annotation_token": "3edd97df8cfa462497a9eb6ba296cf9d"
+},
+{
+"token": "c283b224a9984736bff67a2f347866fa",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 12,
+"first_annotation_token": "aac73ca93415480bace117bd91ff1030",
+"last_annotation_token": "20337400bbce4d50a876b527ab00e387"
+},
+{
+"token": "f1010738ac3a4f56b936fa3a077571b5",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 32,
+"first_annotation_token": "9f25397ce03a4018bfd5a76e65a0d3c2",
+"last_annotation_token": "4a3bc065f44848dca694d3ff6fa4b5c4"
+},
+{
+"token": "3c7331d16ac6439e9bd5a57d75976446",
+"category_token": "b1c6de4c57f14a5383d9f963fbdcb5cb",
+"nbr_annotations": 26,
+"first_annotation_token": "ac8fe30dfaf94571b2eedd79a136fc6b",
+"last_annotation_token": "165a0cfbda42477da22c1ef431b8d42a"
+},
+{
+"token": "a6ca1e8c4eee458cb4981e02f58c954f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 16,
+"first_annotation_token": "ef0ee1f0df7c40ef8f891b42f35e3e99",
+"last_annotation_token": "a28c87a3b3624458b52dc096793a40d3"
+},
+{
+"token": "898c8b3c29d64d80806dd5e5fc6c02d3",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 7,
+"first_annotation_token": "e51cfad3d8404dc29aecba749f61de46",
+"last_annotation_token": "5de457139f8145aea19d6635d74d8f80"
+},
+{
+"token": "19f5d51759454803ae8bbc45bfb92737",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 10,
+"first_annotation_token": "b3286ce630e44da4b0718245891e1142",
+"last_annotation_token": "d373e5fb97d14bbabb17f5b77dcd9c06"
+},
+{
+"token": "aa8f809da9ce441ab1b01fac18e6f97b",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 2,
+"first_annotation_token": "d2d6f46fec2c4f50b228d67b5d67c702",
+"last_annotation_token": "27ef239740a048289c73a1aa27ea9c62"
+},
+{
+"token": "ead6a822f86c432481c0a9d2e4e4f827",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 22,
+"first_annotation_token": "7603b030b42a4b1caa8c443ccc1a7d52",
+"last_annotation_token": "3c853a29c4b14699a451e690e514bae5"
+},
+{
+"token": "dc762bf1bc694d3e8141bf592f9b1456",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 26,
+"first_annotation_token": "71cbaa6a12454e6f829e96497ab5a14e",
+"last_annotation_token": "865ce2f95c5d4541b958eb9932556372"
+},
+{
+"token": "91631b130dc54b14ade9b445e2a0e245",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 5,
+"first_annotation_token": "35a14ae2f89d42bea252e9ed58405799",
+"last_annotation_token": "808a89301f5546d999f0d79a2f2028d4"
+},
+{
+"token": "e73ba8faf67d40c8b6b653489393ef8b",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 31,
+"first_annotation_token": "bd5810603e844c29a36bb896127a566e",
+"last_annotation_token": "7a664ac407214b049dc07b04b708239a"
+},
+{
+"token": "99fbf1b9bf474215a4e8ad562bb7e9b2",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 38,
+"first_annotation_token": "0fa89bf4cb7b4a0a9ea2b00b1e66621f",
+"last_annotation_token": "0e815515a347424b91ea6dfb812af1c6"
+},
+{
+"token": "68dbf490d231446f92fa7dbd366c8b93",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "e4f26ba4b7cc4d2da9400141f710d7f4",
+"last_annotation_token": "f1ea1a7d38f345ca9cd52878a3a8515a"
+},
+{
+"token": "713b6bedc51f4d1b9802a13aec39aaf3",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 17,
+"first_annotation_token": "60f5d41a81ea4ec49bbe8205ec45df2d",
+"last_annotation_token": "b1ba5d0c05ef47f2a19c6086bd1af4c5"
+},
+{
+"token": "200c440c0e9b4627ad4f3047227016a2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 38,
+"first_annotation_token": "4495eaa0fa754de08c2b77e399e4e47a",
+"last_annotation_token": "988d86ce21344c9c9ae6565ed9045182"
+},
+{
+"token": "007842c92eaf4351b5a9678f7e7094f3",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 6,
+"first_annotation_token": "91e8fafc597346cc9cdc3720a836f1f4",
+"last_annotation_token": "ba7b070e22e247988e419bbbecbd33b0"
+},
+{
+"token": "5dd3f11916924b7cb93687c10c7c83b6",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "86a6bae6fad840a99c4882cc805978f7",
+"last_annotation_token": "90177323cfd9455b869d53c49a0299a7"
+},
+{
+"token": "6310d2eb7ac5486bac39521bef6a4584",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 4,
+"first_annotation_token": "a12256ce75794650bfc9b3dc8aee9f66",
+"last_annotation_token": "2f62c97ff78148d98318ef8f3aa601c7"
+},
+{
+"token": "e05f1d3101b743d6a011afbe3b0fd006",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 1,
+"first_annotation_token": "584c65b9243049959c47fd596721da3e",
+"last_annotation_token": "584c65b9243049959c47fd596721da3e"
+},
+{
+"token": "4ce8f37952ad4203b1f5b23c728fb2e6",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "78e8712f332f475baef9c6925a2e0aa6",
+"last_annotation_token": "cc7349b391e640cfb50f63c3580958d4"
+},
+{
+"token": "1f8d7e8410ed435da374688590a13b0a",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 20,
+"first_annotation_token": "080a8ea18b0145aa8fae32d811ce1495",
+"last_annotation_token": "bd31e0c921e94a1d872eb67c3f934434"
+},
+{
+"token": "7328a1bef88b4e84aa2ee0d837effd8d",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 8,
+"first_annotation_token": "cc6ca2823f724fe28aafb99a84f812dd",
+"last_annotation_token": "2c0e670f0e07410c8c39f9bb4c03653e"
+},
+{
+"token": "71cb36c9a35343b7961454d5c3695a9f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 2,
+"first_annotation_token": "cd87d663a41d4afaa17f6c3bddef94ce",
+"last_annotation_token": "16bdcc3ab98e4da9ab4ecae4e0106382"
+},
+{
+"token": "6e71a9ceaf9a4974a1d07a2bd3544506",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 39,
+"first_annotation_token": "a094511594c64d46bf8ed93e5ea894cf",
+"last_annotation_token": "91ba43284fff40bd802c450cab0bc9c0"
+},
+{
+"token": "58d65f4a470a40f887ab278ef660191c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 3,
+"first_annotation_token": "276e8f70ae4845c8931ab3ac8d0d9b27",
+"last_annotation_token": "d67b3638b3c34c32aab7e6d006a8688c"
+},
+{
+"token": "dce1fda2d70945c792dcc27074ec6aa9",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 36,
+"first_annotation_token": "9fec083858f94a908f2958e46fb048ea",
+"last_annotation_token": "6bf2aa710ebb4bdca65e2e5be9ae1af8"
+},
+{
+"token": "185cc5e6132e4e8facb2d0c9fadea0d4",
+"category_token": "b1c6de4c57f14a5383d9f963fbdcb5cb",
+"nbr_annotations": 4,
+"first_annotation_token": "014d6bd5b6fd41789801305f8e83ad44",
+"last_annotation_token": "b100839fc87e4e71b00fdee69cc77ecc"
+},
+{
+"token": "84d4bf98117e477dae6b51bf1bf5c8bb",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 20,
+"first_annotation_token": "c62ea4d22c154123acebe8b12b57c2d7",
+"last_annotation_token": "4759ad9e7ff64f5a820ddea66aa22596"
+},
+{
+"token": "26a4275a140b423bbcc951a5523ff719",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 4,
+"first_annotation_token": "60f0419d451f436aae6eb9fb480c1fd4",
+"last_annotation_token": "96b205ef7eca4099a52fa74721b8b0a0"
+},
+{
+"token": "2a42fd0e123c455fbaeb1c5f03dba0b2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "9d8a365e34e8490b93a69685e2a2359b",
+"last_annotation_token": "24df0cb151004057a932dc7d64de6ce7"
+},
+{
+"token": "34aaf645a4174c6c8ff1874e6b33ccf6",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 36,
+"first_annotation_token": "5d26fc16931b410897dc379865a39ed4",
+"last_annotation_token": "248882a325e642f28f31243ebe131f1f"
+},
+{
+"token": "f3995943006145ca8a7bc375527f0aba",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 16,
+"first_annotation_token": "a977de149680431ca2c0c462132db5e2",
+"last_annotation_token": "105ff35e670f41968158ddec8e48d1c7"
+},
+{
+"token": "608f6c85cd524242bc9d299c0a954f69",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 9,
+"first_annotation_token": "d9e583834ffa4874bfb1031be4368209",
+"last_annotation_token": "72f2436eac2942f8b9390cc6e6e9ea77"
+},
+{
+"token": "abdeb2ae1d884b4dbd6f38f699d453bd",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 7,
+"first_annotation_token": "7b1a7f38b76c48c4a8f159cc404f3f87",
+"last_annotation_token": "da658810bfe64358b77ea6192f8a68b1"
+},
+{
+"token": "2cc84e32d40647b185276f8d7baf5322",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 6,
+"first_annotation_token": "b4998f18e4f646be96777afd3738af60",
+"last_annotation_token": "d303ce5689ce4bb587dfb2dbb4c7a1b5"
+},
+{
+"token": "d0f5aace57684923b8a44b554b006fb2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 37,
+"first_annotation_token": "2cbf6571e16147d8b39756987642816e",
+"last_annotation_token": "1625426c7b874664bc6420b701f06a69"
+},
+{
+"token": "62cd175b56cf4caa887eaf3462ccde5a",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 17,
+"first_annotation_token": "b46e224e9c0b471995015be747320ddf",
+"last_annotation_token": "4e42f788c584495aaa1c235df9206215"
+},
+{
+"token": "6f1f46b67f3d430cbf417e750fcec3c7",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 1,
+"first_annotation_token": "0a9b632f51df49fd99d50f22b9203bc7",
+"last_annotation_token": "0a9b632f51df49fd99d50f22b9203bc7"
+},
+{
+"token": "bd1c40bd2810476f8d04fd09bdead8ba",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 6,
+"first_annotation_token": "ab2731d3342e41b2870d44b439b93b7c",
+"last_annotation_token": "86d731bf3eb442ac905ab7db2b68c752"
+},
+{
+"token": "c1fe224b76cc49e294847788c443e470",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "1732edf46e664d258d6c047e18237d2d",
+"last_annotation_token": "1021c56f98a24db886f8bc4598302375"
+},
+{
+"token": "84755505e70547af890aff9db860f692",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 28,
+"first_annotation_token": "9b1f7675e7a5458ebf383febdac138f9",
+"last_annotation_token": "8cea4b3dba5244fc88168e90b22dcfd8"
+},
+{
+"token": "349232409f354033b215b5e37c3312ab",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 20,
+"first_annotation_token": "77cdedc34c0e4306941a6dcc1a229293",
+"last_annotation_token": "35f4e53cc2f8420e8646d461bce81456"
+},
+{
+"token": "f7f666bf92c049bea8fabc42a8831005",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 20,
+"first_annotation_token": "6854318fa61a40d5922a396ddd048c24",
+"last_annotation_token": "d06bd613440741f4b6768e7d06f3ad13"
+},
+{
+"token": "ba7ec913a8d8494e98ff60579a32acce",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 1,
+"first_annotation_token": "d393f57b938b4117b59c4cf2c292f613",
+"last_annotation_token": "d393f57b938b4117b59c4cf2c292f613"
+},
+{
+"token": "b9df4a8540da4a3a94d7911ead8c1bc8",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 10,
+"first_annotation_token": "b3d888e21e0949c8a34b830893eaf0ca",
+"last_annotation_token": "d3c894e848184279a68c2ddd18d88642"
+},
+{
+"token": "5cba59926dd04bcfaf994ab682e07460",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 1,
+"first_annotation_token": "17d731e315014c64a9276e72be9bd056",
+"last_annotation_token": "17d731e315014c64a9276e72be9bd056"
+},
+{
+"token": "ab820b691d3446ea889a70cd429cd931",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 4,
+"first_annotation_token": "4a70062c1a8545c9a8eba74552124949",
+"last_annotation_token": "0c21644e56cc4114b921719699cbbee7"
+},
+{
+"token": "b3412553d70f40b3a1d19a0eb8529a08",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 35,
+"first_annotation_token": "6eb36da411e94447978f45dd93d72e3d",
+"last_annotation_token": "d3926aa0ec334f08b391ce10997ed730"
+},
+{
+"token": "72137291381349428afb1038d4e5898c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 36,
+"first_annotation_token": "d7de3c5643264508891ac5345a3860dc",
+"last_annotation_token": "17d3c96a5a40435a913fcba86fb7b70e"
+},
+{
+"token": "ad2ae385245f46d49b4d06f87e2ac544",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 30,
+"first_annotation_token": "f4e0710ff49a4e03b16142fb132966f5",
+"last_annotation_token": "56c98d77b7b84889b70785107fadfe2b"
+},
+{
+"token": "06ff24b7f1e8479b934f1b74348028bc",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 33,
+"first_annotation_token": "405f49497dd34ab4860a4661ccb6ee83",
+"last_annotation_token": "ca1e51e587f54d088d9ae1b5fbe89206"
+},
+{
+"token": "cb86f2447f29425caf2e03d1ce092311",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 4,
+"first_annotation_token": "e9cc9bb74c734524a501a622479a464f",
+"last_annotation_token": "30b1a744bfbd4b87bb778a4f05cbd192"
+},
+{
+"token": "96c353e8f14d4a63ba2b844d43cffc42",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "b4703d83f34b4992bd521861df9acc8c",
+"last_annotation_token": "3e5efaae16c6460aa391574036fdd2f8"
+},
+{
+"token": "eaaf60765ee8478f8e0bd4942571c6fb",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 39,
+"first_annotation_token": "a09b7671935a4458893a1d3ae953ccb1",
+"last_annotation_token": "62c3f91b07a34af0938870362e586db5"
+},
+{
+"token": "802bbdc22d21477f8803a39a5e7e98bf",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 8,
+"first_annotation_token": "3eef07d5639141c1a6fc7a857df8b6b3",
+"last_annotation_token": "7d9ae4a7e55e40adbb040569a2651fa4"
+},
+{
+"token": "bfe685042aa34ab7b2b2f24ee0f1645f",
+"category_token": "0a30519ee16a4619b4f4acfe2d78fb55",
+"nbr_annotations": 36,
+"first_annotation_token": "ad03c7baa60044de94913f1d86471148",
+"last_annotation_token": "eb14691c24fa42fe9b54a2ed62836b63"
+},
+{
+"token": "ebb251e1e8b144c697dc28c22bb44b13",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 6,
+"first_annotation_token": "dfbe19c2df3a40b5bf176798a9c4dd18",
+"last_annotation_token": "aefa484c3e754c20adfe1ccd70d0beb0"
+},
+{
+"token": "c7bb896c68f748c9b735ca9df26435de",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 5,
+"first_annotation_token": "5f22a97d6ac0415991f6626e4b142620",
+"last_annotation_token": "90d834e5e52f4fcfa2dc8e69689baf17"
+},
+{
+"token": "383bd619cf7e400bb7a8a2370e7c5889",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 1,
+"first_annotation_token": "a29043743cde4a94ad89af55deae25aa",
+"last_annotation_token": "a29043743cde4a94ad89af55deae25aa"
+},
+{
+"token": "377df4ee88ec46c9be892080557263f6",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 24,
+"first_annotation_token": "71003d78219e4f3d9112afddbb11b6f2",
+"last_annotation_token": "675c5d1eb0b143679f1181f6568bb9e5"
+},
+{
+"token": "2a8a8fc65dc54eeb9e2e161bfa3af0c1",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 17,
+"first_annotation_token": "1a272ff5c3fd4633b0a644a6bff6eb9c",
+"last_annotation_token": "e19afc49ca74412a83bc49806e75d27e"
+},
+{
+"token": "441d920208bf49f5870a09a519436b15",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 1,
+"first_annotation_token": "2fc94e701ef044b6a4eadefcfb0fcb63",
+"last_annotation_token": "2fc94e701ef044b6a4eadefcfb0fcb63"
+},
+{
+"token": "749bf5675a3d435a987f0b8582e93509",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 1,
+"first_annotation_token": "2e4e3f4dd65744f69c27209dbc41993b",
+"last_annotation_token": "2e4e3f4dd65744f69c27209dbc41993b"
+},
+{
+"token": "ff7dc6c94901476e9b5f6198e3b2103f",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 35,
+"first_annotation_token": "60d8cc6de1144cbc9214987f2c42031e",
+"last_annotation_token": "5bbcd0e343a1455f9b3560438a255492"
+},
+{
+"token": "a67af729352f44cf8872524897cdbeab",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 4,
+"first_annotation_token": "e2bc354f5d724324a82afb5ba98ba352",
+"last_annotation_token": "15df52937b6c4e358a3e27fc262a318a"
+},
+{
+"token": "9c5151b34911482f8155ab55c3f5d32f",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 11,
+"first_annotation_token": "28ba308c54154668886c8c8728dcc774",
+"last_annotation_token": "5bbe47091bb04678ba7c23fa9bbcddaf"
+},
+{
+"token": "8096b5ad8e334c2eabffca9cf3bbf08a",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 4,
+"first_annotation_token": "954c477b7ac44809bf5c44d9717c8a32",
+"last_annotation_token": "bad742a4cce7431b883c6f19d1ee474c"
+},
+{
+"token": "3620feb00d744241a94855f3a8913a78",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 35,
+"first_annotation_token": "d4df7d40ad1747f8b64d1c1b54873f8d",
+"last_annotation_token": "2e46b01ac25742ab8062ac877f61b4b2"
+},
+{
+"token": "5d77c275683248658e7564ef24bf63b2",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 37,
+"first_annotation_token": "2ca9039c6b06448ebd5c4caf3b0aa6f7",
+"last_annotation_token": "e1a6eb616d5a4412972ed95016ae7aab"
+},
+{
+"token": "f1335e8d0b7c40988d9ab522b5993d3d",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 4,
+"first_annotation_token": "229fa3c771754298acbb2843ab0ddfdd",
+"last_annotation_token": "2b2dd8d930794ab8b96c7bb1d9fdc23b"
+},
+{
+"token": "445d910b06944ea9acdc0d827452bcd0",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 5,
+"first_annotation_token": "21486fabb0df47b3b2f898f0ac029f21",
+"last_annotation_token": "32ed0ad251cc47bf9344085333712142"
+},
+{
+"token": "6702a65bda8b4e2da8ac270c26e425bd",
+"category_token": "dfd26f200ade4d24b540184e16050022",
+"nbr_annotations": 21,
+"first_annotation_token": "61a07fcb90024c7fa1678b96c5a3aa52",
+"last_annotation_token": "f6cd785ccc764c508e61192d4b72ef5b"
+},
+{
+"token": "6346de1c47584b34833d6df500d2ed6c",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 24,
+"first_annotation_token": "73d22463ca064301a06c929f198a686b",
+"last_annotation_token": "9ad054e426274b82974264c12be92def"
+},
+{
+"token": "ec0e6425eae2442698ff7b43d405d279",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 19,
+"first_annotation_token": "22e149a4da3043b099871b901f88434d",
+"last_annotation_token": "fe087e2a16e14c849221d2851ad7e4be"
+},
+{
+"token": "db7d65690f2e412e887468596e2ddabf",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 22,
+"first_annotation_token": "267ed783107a45acabfbf5997dfcf657",
+"last_annotation_token": "2d9edc412de84a2291bd582c7e456444"
+},
+{
+"token": "e147a4c07e06487592fb5d6135c27a78",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 40,
+"first_annotation_token": "7281c1d5d94740de8a9dfd73143b19df",
+"last_annotation_token": "b9e2bb5fd4cb485facfb3f175dca62ad"
+},
+{
+"token": "da21f88e68d643b19b86395d22eeca47",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 7,
+"first_annotation_token": "8e560c0238af44c3badb845568a4051c",
+"last_annotation_token": "8178990fcb394ccc9e9c793a3952c0be"
+},
+{
+"token": "f2ae958a00e2453b923b9695abc2b5e1",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 7,
+"first_annotation_token": "6730eb6c99b34f1ebfd6dc6a57072515",
+"last_annotation_token": "d82bc5ef0bce445b9b4291949422e93d"
+},
+{
+"token": "0809d64df9264121bead0772ee9b5984",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 37,
+"first_annotation_token": "746a400abc1b447fb0994e3eee871b5c",
+"last_annotation_token": "32803eacee3d407faa4d16aaaa45f36e"
+},
+{
+"token": "f1a5f567cec74fdc9cb5c7d3fbf4dc34",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 1,
+"first_annotation_token": "ad1ecd1a83a647aeaad5160f7c4985f8",
+"last_annotation_token": "ad1ecd1a83a647aeaad5160f7c4985f8"
+},
+{
+"token": "d1bfe0f38a1c4e1a9d6f2316db2ec4e6",
+"category_token": "85abebdccd4d46c7be428af5a6173947",
+"nbr_annotations": 5,
+"first_annotation_token": "faaeb825ef7b473094da988747c71da6",
+"last_annotation_token": "221244dbb1d54767b128e6a3a70d2909"
+},
+{
+"token": "fef3f0c1f8f944e393315c5460263f17",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 31,
+"first_annotation_token": "87cb8197fbe84a1f9c6d9a25b5f854b7",
+"last_annotation_token": "7994034b225e48d79da88b55eef5fdf5"
+},
+{
+"token": "320dfa374ba74a11a4ebab02ec7b2788",
+"category_token": "b1c6de4c57f14a5383d9f963fbdcb5cb",
+"nbr_annotations": 4,
+"first_annotation_token": "f2b18538fa104c31ae4c4d65d77eccef",
+"last_annotation_token": "445140b5baea40c59b8c75f7d3c7bc11"
+},
+{
+"token": "9439a24131dc4e1faa3b5b73f518f1da",
+"category_token": "6021b5187b924d64be64a702e5570edf",
+"nbr_annotations": 38,
+"first_annotation_token": "64c7fa6ede1b49a2b2acdaa70d547587",
+"last_annotation_token": "57203bf420a44d899d6e051d41a8be82"
+},
+{
+"token": "0bfc7d407d09490cba7ac57897fcb100",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 25,
+"first_annotation_token": "2e13f6bc8f5549ed8a068a835254751a",
+"last_annotation_token": "30b2c2c3213248dc9d205574b54fd805"
+},
+{
+"token": "045cd82a77a1472499e8c15100cb5ff3",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 33,
+"first_annotation_token": "bd4f58efe9844ef3bbb7c64707585e14",
+"last_annotation_token": "1053379ba0a34bd3a2b86f794aa6ff1b"
+},
+{
+"token": "093b61d74f874ccc9c8c700a5f5274e6",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 20,
+"first_annotation_token": "6123191477004998a010a85b0fecab26",
+"last_annotation_token": "d76fdc74d3ed42c1a81575adabf3087a"
+},
+{
+"token": "bc6bc2b076b24fc79ed0517f5747c1cf",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 27,
+"first_annotation_token": "b79ed739e23c47acb269731412eeeace",
+"last_annotation_token": "992d463a70324c5a90f23ee9e6dba20c"
+},
+{
+"token": "48d06a263b314b48bd41343ea5f5d158",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 28,
+"first_annotation_token": "c930e17aeed1421097b259176f8dc0af",
+"last_annotation_token": "141b5d39a9fe4ac7990b429c33d1155a"
+},
+{
+"token": "1377fe4255444b1495d0ccb972d8ef98",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 5,
+"first_annotation_token": "2150bd3d626a4cda85c791ac49fd28b6",
+"last_annotation_token": "50bf702cf1e8421385e2898a37a1162f"
+},
+{
+"token": "c34cb46c7be6486a85ee49653850b174",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 39,
+"first_annotation_token": "bf6e4471b63041058aff7be33c4dd248",
+"last_annotation_token": "ba0d93a58d634f548b6c6d48e0f8f3c3"
+},
+{
+"token": "7581fd7e9c0f426cb0efb9ea1f3f2830",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 22,
+"first_annotation_token": "d5fd6227567d4e44b2eb764adb5da549",
+"last_annotation_token": "25268279ff0c43cbbdc967818df3558d"
+},
+{
+"token": "d41a43be2fdd47e5a8dde63f68a05513",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 2,
+"first_annotation_token": "4fc79940723349e6b6407c11586631f6",
+"last_annotation_token": "6046b81539b04ed4af42de0a09575d49"
+},
+{
+"token": "09810748e6c04aacb393ebf14fafa5e8",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 35,
+"first_annotation_token": "8bf6e9bd745540e2963a6e499f337ee3",
+"last_annotation_token": "708d48a5381445688cb2be45c0378ee1"
+},
+{
+"token": "1e4a740fd22b44dda3eed861e6e3f170",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 15,
+"first_annotation_token": "d4ad00fd378042bea4a0f318c22be5e8",
+"last_annotation_token": "f81acb7ad76747029c825d1c5fd71090"
+},
+{
+"token": "2ef4b4d20b064d34b754f68e48f5a5c2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 28,
+"first_annotation_token": "818f6afa7a404ba0bb79fa079c305842",
+"last_annotation_token": "54cbf09638aa4b1985aeeb4dac77f62e"
+},
+{
+"token": "723af3d23fb445e3ab97669e85846445",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 5,
+"first_annotation_token": "7cda28da47e142f186b5315cb159c480",
+"last_annotation_token": "6f54a03340fc4e8eac8858983876a097"
+},
+{
+"token": "143ecd5e93614768bdb3da695e76c409",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "f86091dd98754bd9b53beec14c9b8820",
+"last_annotation_token": "c2e9085de0494fe389ed15e52fd88bb3"
+},
+{
+"token": "4a8058d0441a46d381995e1af1086039",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 16,
+"first_annotation_token": "80f70fe490b34af88002a0afc5d19ec0",
+"last_annotation_token": "0b3f8c79d80d4be5b412a9dea7a4cb3b"
+},
+{
+"token": "b673cf89298845398bf0252c52e5affd",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 3,
+"first_annotation_token": "02545d84438a4f4180fa80bb9d2a1dfd",
+"last_annotation_token": "c23d83fcbe594d1b815b0802b77206ac"
+},
+{
+"token": "55f7fb5fa2854b0da825c2cd1c94b23b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "0dd185af364e4ee19b81949c5da246c3",
+"last_annotation_token": "4e5be2092e204660b65449a73ea39b47"
+},
+{
+"token": "47304f98d3d3484d8af8d5e4c7428022",
+"category_token": "403fede16c88426885dd73366f16c34a",
+"nbr_annotations": 25,
+"first_annotation_token": "d6ec827a3efb4d0aa180a072be10c8bd",
+"last_annotation_token": "28e64960f6fd4e639b1c5606ba5df184"
+},
+{
+"token": "7b8032aef1494ed28eb726c0fe7b7be7",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 34,
+"first_annotation_token": "8c923959ac9249eaa7c32860e816f730",
+"last_annotation_token": "e2446906db9a4c1fb9caa0862f4a3c6b"
+},
+{
+"token": "d4caaa59277b48a5a750d5d9ead9e402",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 30,
+"first_annotation_token": "99899e53c42d47e6a837a3f30cc07553",
+"last_annotation_token": "f6aad072e5d2464aab96b84f4f27679e"
+},
+{
+"token": "98e2b15c113a477a9f291b25194cab62",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "4518ec9f9c254954838b618114d1d5c9",
+"last_annotation_token": "18314d1199fc4ba2a1dc9c081f7cb08e"
+},
+{
+"token": "c860a955cda34bfc8f08142093bf70a7",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 2,
+"first_annotation_token": "bd8009032d4c45d8ad9a9dab1510fa22",
+"last_annotation_token": "24f869ecdf2249748ca168fc4352efa1"
+},
+{
+"token": "13e93cfb18fa472cb347d1129cfbab9e",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 17,
+"first_annotation_token": "7309b53555e44710b991af4367c38a35",
+"last_annotation_token": "52a7f8e49a9b465789a95fb26c7dbeb6"
+},
+{
+"token": "e6d7aee18c7c4c5c953ee4bcee294834",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 21,
+"first_annotation_token": "cfe5a3c80c784bc29c36d32231577e32",
+"last_annotation_token": "b29f981ba1474e1e8b49fd81f3cab8a2"
+},
+{
+"token": "3543efbc49b147c6a7151e945b999fe5",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "761d60b46fff43869837a114f6c35bc2",
+"last_annotation_token": "e37a1fc01e8047169713147ae1f04e9a"
+},
+{
+"token": "3b12bb50abc6479aad7cdca503c4339d",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 27,
+"first_annotation_token": "85c3444cf41246fc9f491cb3f2239c99",
+"last_annotation_token": "2ee4642dea3544d79ffa5a70adfc04c6"
+},
+{
+"token": "870c468534f7401cba587f6af0dc2eec",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 40,
+"first_annotation_token": "39497b5fc272492e9c5ce6d4b6ba3d9a",
+"last_annotation_token": "3ed7ce4462fe42748d2f791892423e1b"
+},
+{
+"token": "a17eaee4f19f45e2a80e0ed11751b86b",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 29,
+"first_annotation_token": "00e1fa60191a4ab381e42d7406500a9c",
+"last_annotation_token": "25048093f548498989ae0e3ce8165783"
+},
+{
+"token": "af9f8e591cf54233a6ac8bbb58c7872d",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 22,
+"first_annotation_token": "135594e0f8984c5abf507d6ef990745d",
+"last_annotation_token": "1a77e1f63da443af913716fc3f0b6fe7"
+},
+{
+"token": "c82d05b5d41b4618995950edb7922349",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "3f17102a2a954b7a89e9953c8de917b8",
+"last_annotation_token": "701874e3d79347c1b8da5519f543a167"
+},
+{
+"token": "1de4ead6423c44cba286d3fa8031c2bb",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 6,
+"first_annotation_token": "8aa065add0d5487ebd09457ca19b75f2",
+"last_annotation_token": "be6efae357c84d06992255210997c188"
+},
+{
+"token": "8e992e7479094a61a550b951c1451092",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 16,
+"first_annotation_token": "97ad212b42314bb2957c84d09fa443a9",
+"last_annotation_token": "00bc821e6b4048f98a4a73d5886904ba"
+},
+{
+"token": "c5bf5dcd6ce44959812034babd813887",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "20f27164d591473e84a2f43d2e20e5cf",
+"last_annotation_token": "f1a1488405204781af1542d4fce1a22d"
+},
+{
+"token": "f7832eb5317a467e8c35f8520555a23e",
+"category_token": "fedb11688db84088883945752e480c2c",
+"nbr_annotations": 15,
+"first_annotation_token": "60b75df13d814fefb096df581368a040",
+"last_annotation_token": "4f5cee4ac087447b86179881839527d9"
+},
+{
+"token": "17758f0189b946e59e54a03167fe24f2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 18,
+"first_annotation_token": "ab73ec02a43d4533bf42b05495b411a0",
+"last_annotation_token": "54bcdfec7cc4462ba985da15dfe65da6"
+},
+{
+"token": "d61323aefb8640da9d5258fae57c2d1c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 17,
+"first_annotation_token": "c74bc1283de3459f9231592be0d41dd6",
+"last_annotation_token": "04a087a74b2748589e69caad1d2d7970"
+},
+{
+"token": "d569afe307654e3c82846e568999afec",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "124de8d1a9a940f8adc6379600259425",
+"last_annotation_token": "42d9b639024d44c3b4ef9db96380879d"
+},
+{
+"token": "a811914d417942b182285ca2bad0d1a8",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "c32ad317fe384ad48b45183546108d70",
+"last_annotation_token": "51b114c292154f52a4689f2ae35bfa90"
+},
+{
+"token": "dbdc553e768b4ee7abfc3b456a991fa2",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 36,
+"first_annotation_token": "3a9f8e289d2b42fbbb711d417146012a",
+"last_annotation_token": "be62d84f34c64090a077557f1defe6b6"
+},
+{
+"token": "eae35ba40c4e45c9b5cdedf517c8ee4a",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 20,
+"first_annotation_token": "5a4826c9fe294d44a09486b1078bf6d4",
+"last_annotation_token": "3ef479f87837426e9369c115f56ff002"
+},
+{
+"token": "9777aa985269472595ff1ee88420008f",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "fe9036040695459db3882141c75d548c",
+"last_annotation_token": "5a8a136214fd48cab302778fe2dafbc2"
+},
+{
+"token": "ce93ff973b8047f9b80668b81debca3b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 31,
+"first_annotation_token": "5e5a377296dc4ba1ad0b6677c2b5b9c8",
+"last_annotation_token": "fde6fc9f49ad40d59e1d20decafb962b"
+},
+{
+"token": "2c44e4c8d57345dfb834a2c524eee269",
+"category_token": "fedb11688db84088883945752e480c2c",
+"nbr_annotations": 34,
+"first_annotation_token": "e97768e423684d7fb86a256d884a47b1",
+"last_annotation_token": "67d35b9b86c14af69bd8bfb944674ae6"
+},
+{
+"token": "43e0b606c4dc44eabf8c2de8f44411b9",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 26,
+"first_annotation_token": "8f94e1b5cb874b648b6aa3aa7e2ee6df",
+"last_annotation_token": "2394a99a89274cb1a39de937a7812926"
+},
+{
+"token": "3f81e988f45c44119cca8011a3274603",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 40,
+"first_annotation_token": "64d522f129634049b4bba059ffd2ff5c",
+"last_annotation_token": "cd29f195202b4ece872d06ac92f6dbb2"
+},
+{
+"token": "0c55b24f75814764ab76476f6d77c436",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 27,
+"first_annotation_token": "3dc8062203e6428aa4ec46e9bf6f0e73",
+"last_annotation_token": "e813d134498f4f3fa4158e67a2272656"
+},
+{
+"token": "c3c2aa02ee5f430a85a3d6bc3f33d1d4",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 21,
+"first_annotation_token": "cded0cc40043482182aa6613bb43e48c",
+"last_annotation_token": "0afb6c76e80148159fd7ff0a9c3bd51e"
+},
+{
+"token": "0ae0723e31c9489492e6d53e21598d6c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 25,
+"first_annotation_token": "3c360b62313e4b02ac91c57829feaec3",
+"last_annotation_token": "a7eca9c5a7ea4f2e91413daca2f61532"
+},
+{
+"token": "e6505be7823b40858d669c34afba37c4",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "d8623311845e4c14b8bfecbaa0f6073f",
+"last_annotation_token": "95f1abcd74f346d0b3dc96108db0d625"
+},
+{
+"token": "27c29ce8b23147a9b30c905cee92fb0c",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "c599c8639109446eaf567b51c10a967d",
+"last_annotation_token": "bb51c69719ba4afea82d39ea9a3b8e7d"
+},
+{
+"token": "029357560fcc41db9973bd656d63547d",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "b78b1cb06af04ba0b7d2b33d760e5874",
+"last_annotation_token": "acdff59e21094b4e9d0b8ed747acd4fa"
+},
+{
+"token": "af4dc3d76f18426d8a4541876cb997c0",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 28,
+"first_annotation_token": "1977cf3ea39a4e7ba6920a1331bb7b02",
+"last_annotation_token": "93238c0fb5714857b983f858cb512eea"
+},
+{
+"token": "005855d523f84d8a9e3bef3031c93e56",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "5c6d2b347caa4086b92225013042368e",
+"last_annotation_token": "c10131e965994e30b956389f502c87ef"
+},
+{
+"token": "4d171d65ed9345218fb15a1a33325078",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 13,
+"first_annotation_token": "62a5daa07de8435b8a633cb3ca475c62",
+"last_annotation_token": "cc70eb9659414b48897560d65bd1cc9c"
+},
+{
+"token": "f562d02aa4274b6caf1f38aa22649b8b",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 1,
+"first_annotation_token": "cd8273407498485e844a25b68ff12669",
+"last_annotation_token": "cd8273407498485e844a25b68ff12669"
+},
+{
+"token": "bbab4b240644425ea76ee82dde094e49",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 35,
+"first_annotation_token": "9381410bbbc34d7e8cf82c076e35ea54",
+"last_annotation_token": "3e524b85eb1d4b6b81f480d44bf39516"
+},
+{
+"token": "5239af09678744329fe215bedc5fe6fb",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 26,
+"first_annotation_token": "d78f8d61e8324a449f934654dffd0db7",
+"last_annotation_token": "0235cabb5eed44d588d6dd85e95473c0"
+},
+{
+"token": "a9822c99f38a43b091f5feee21b09659",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 3,
+"first_annotation_token": "7a2dc89cb45f4c1e91b7dbee7d0b0912",
+"last_annotation_token": "f2fccbc66de841ccb72db283d592f402"
+},
+{
+"token": "fbcad891cccb4d8a8fba633468335667",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 27,
+"first_annotation_token": "265120c3330549d2b4e1d7e7f22287d9",
+"last_annotation_token": "fe670094998040e9aab73798fc44ae1b"
+},
+{
+"token": "9d0289ea501143419c271f8778c8e68c",
+"category_token": "dfd26f200ade4d24b540184e16050022",
+"nbr_annotations": 7,
+"first_annotation_token": "faf5d9b0725c474d9325058f590acb55",
+"last_annotation_token": "b558370d462d481899126663ec697cd6"
+},
+{
+"token": "b7fb892b65c04d319f238a827eb0a1e5",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 9,
+"first_annotation_token": "2c261b793eb4486aa6f0cf29a2ca18be",
+"last_annotation_token": "f1518ee0f7fc4764be36e9917ce2e75b"
+},
+{
+"token": "b20e566fd73e4a6e9797b11a0657aa03",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 24,
+"first_annotation_token": "3b593c79e93b47dc8e6faaefb64fde08",
+"last_annotation_token": "0cfb91b2c1ad4ee69f81f360dff1e5a8"
+},
+{
+"token": "d31da07d75a14a25bda005fa7fa30f5a",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 19,
+"first_annotation_token": "31cca89fb50b4fb8995b03668ee8485d",
+"last_annotation_token": "4792ef7c08e04964ae2ff0b461299e5e"
+},
+{
+"token": "995f679263514868b5974747927c4c46",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 3,
+"first_annotation_token": "993d4d7f83c6418fa8c5dc3bf8ce6dde",
+"last_annotation_token": "2188d96ab87e429e8d3a986a574a76fe"
+},
+{
+"token": "8c3247533921448abe371a59d4696252",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 22,
+"first_annotation_token": "6c15c8468a3a473ab5ceb100df015dca",
+"last_annotation_token": "3672099104334474971cc9528802ae1c"
+},
+{
+"token": "6a4b9f7abafd44f38ff670c3064b13dc",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "54bbff47885d4879b156124d691a1071",
+"last_annotation_token": "b97bf42346fd4982b97f419a38c6e85b"
+},
+{
+"token": "ff7b5cbe03fa4c54ba9a3d07284b60a2",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 10,
+"first_annotation_token": "446337cbdfc6497f8a1521dd15563f3c",
+"last_annotation_token": "1d8028ab2a964f0393d08d507ab63f74"
+},
+{
+"token": "f2e5400419984231855abb04d5efa716",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 32,
+"first_annotation_token": "049cc56b05d049f4bf2fae2b1b8f5203",
+"last_annotation_token": "03035e4d20f645efb28c5b32ff81d6a3"
+},
+{
+"token": "b9cfadb6439a4ee5a9faf4f4ecbd2408",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "7edc0aaf265e4a0da5ec89dc19ac3c96",
+"last_annotation_token": "b5ac4e74174a4f5b974ad346d51940ba"
+},
+{
+"token": "3288bc56cb484253b0e9d877d7d1f437",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "8e4deef50d7a4bffb9512b27df765d43",
+"last_annotation_token": "a2412ca7cb774634a2e10e80c8f03980"
+},
+{
+"token": "9441225cd01f4730a02b5d8927063f53",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 35,
+"first_annotation_token": "81643692054a4cd8bde0d2edb836f11e",
+"last_annotation_token": "5707a16ff5a243f4a1c031aab0d922b7"
+},
+{
+"token": "1ab7d92d3ed3455ea628c6962906d4e7",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 12,
+"first_annotation_token": "2dd3619377ef409a86a3e5d732724a00",
+"last_annotation_token": "715554813497472d9358c27104afb907"
+},
+{
+"token": "575b8651141f42d7bcaf03a8cab65bd3",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 24,
+"first_annotation_token": "9a82fc8dec9949449bbc4d0c9ff25698",
+"last_annotation_token": "e478f8f34eb647c38f4f6130cfbdbb82"
+},
+{
+"token": "dc534f142fbf42afbdd38a1afae9df7f",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "bbc1442032fa4e44a1f225b07331d5e5",
+"last_annotation_token": "70bdc0c67c774ba3ad14778903d2ba88"
+},
+{
+"token": "b0e4c63cabd14ec48c7bdd6b6fbf9f4e",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 21,
+"first_annotation_token": "547c07be4818463eb462976d28980c33",
+"last_annotation_token": "043afa6fcff4464993e186452515253e"
+},
+{
+"token": "f12d635edc9b4062897f56432583cc54",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "23f33cf21f7841c1945099a06e062b5d",
+"last_annotation_token": "802278099bb641ffa1fa957aba0ee835"
+},
+{
+"token": "a2cf4f44341946b8b1359049c8bac214",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 21,
+"first_annotation_token": "be5d0c37e2f74930a6fa3c3486148ddc",
+"last_annotation_token": "3b2f5b73713d4c5e852928e3307be627"
+},
+{
+"token": "cd1add73166f4b43aa014f51a30f662c",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 26,
+"first_annotation_token": "e79b9889947c4b2181c91af3ffca4dec",
+"last_annotation_token": "cb5e38f27490437485b4a9b2e666234f"
+},
+{
+"token": "19f0484e0ec84c0eb64c92698fe5e7e3",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 24,
+"first_annotation_token": "a1c370dcdb454e9ca16fcd588fe68878",
+"last_annotation_token": "1eec02a98338438b9ad6b3c314f07fcf"
+},
+{
+"token": "ef1bb1c649f8449f9bd0dfaf6f6114a8",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 5,
+"first_annotation_token": "8392d20b7ac94de6bb4d1a5705c57fb7",
+"last_annotation_token": "f272c46410e44389a6b549615b0de4a3"
+},
+{
+"token": "2c761ca3c6e745ab8b7553a3f3dc937e",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 19,
+"first_annotation_token": "4537ef221b974bd2ac98f6a2b6525b71",
+"last_annotation_token": "e1b2bae869f64ec5a2cd795d3efbca97"
+},
+{
+"token": "3e6b4e722f39423f8b3a7da562449891",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 20,
+"first_annotation_token": "36011c695fe04ca98c746a194d4640bb",
+"last_annotation_token": "72048fa09d1844cc9efced179a0255e7"
+},
+{
+"token": "41fd985de63547f48fe139c572ddbacb",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 23,
+"first_annotation_token": "a9fc8bf44da64b668e7462004e9234e3",
+"last_annotation_token": "e02a6cdfdc424c4b983754364423ea3d"
+},
+{
+"token": "7e7f7598a9094b23a1268c4fc85cfb17",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 14,
+"first_annotation_token": "94add00b1d1a4907a04db0c03c05c39f",
+"last_annotation_token": "015fd40367c9481aaecbb27eb7f297ce"
+},
+{
+"token": "c9944f24807c478d85e2daa4bf02ea3c",
+"category_token": "dfd26f200ade4d24b540184e16050022",
+"nbr_annotations": 14,
+"first_annotation_token": "fb210873cb724826aeed833a7d311950",
+"last_annotation_token": "48aad19db4054baaa59ea54fb892e601"
+},
+{
+"token": "ec69560d753043d28b2f905dffdea722",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 34,
+"first_annotation_token": "314d95b2ca084437b83aca7d820743dd",
+"last_annotation_token": "88686601707d49bd909b97090a58e962"
+},
+{
+"token": "a0328b62fcaa46a093c7de5ae9b53ecf",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 40,
+"first_annotation_token": "f168274263014fffba041694a9a259e9",
+"last_annotation_token": "b1c2cb11bf4848df86c565c183a8978d"
+},
+{
+"token": "155047a77309452a908e6c96ddd60b55",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "a4241885070c4dd6a0225b727b19aed8",
+"last_annotation_token": "6f75c398ebf3437e85bdc7604ca532ca"
+},
+{
+"token": "c530e58bfaaf4ba38bf0f66c11381d7b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 16,
+"first_annotation_token": "8d63656914d542deaa0447ba5a74057b",
+"last_annotation_token": "63c22ab8121f4a379389d533f5c7cb4b"
+},
+{
+"token": "669071c59a65406997253ff1c50bea01",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 10,
+"first_annotation_token": "97c12f118ccf40b6881fb9411f650961",
+"last_annotation_token": "ddb36ba0b43d48f3a318bf72ca7276f0"
+},
+{
+"token": "d0de3763c12f4eea8ff4eab91a887297",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 22,
+"first_annotation_token": "2219cf1f356a4abc904779e6fa1d51d1",
+"last_annotation_token": "f35aa02673ba4e628557ebb97147979c"
+},
+{
+"token": "46a3cc53b10846a3a6a61c51b0f3a7b5",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 22,
+"first_annotation_token": "a76a08f1b6d74eb48134f13f817ba707",
+"last_annotation_token": "993e82c18be94f248c75ab84f303bd76"
+},
+{
+"token": "0a70b7f2364c4a0eb1512694661b4dc8",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "e3be843693cd47958785cc39c9f62365",
+"last_annotation_token": "ece607c8edd74f6ab454df6fed1c65fe"
+},
+{
+"token": "2bfbbe1b78b341b7a1fc0474ef84bafb",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 18,
+"first_annotation_token": "29f9dd5e749740c1bd63df6410de02e4",
+"last_annotation_token": "25cda80dc85041dcbc88149096ee6c0c"
+},
+{
+"token": "d17483a41ba44007aad76b27b520a70b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 21,
+"first_annotation_token": "b2b5344f76d949d680a2c872114dc444",
+"last_annotation_token": "87b0600845bd4bc9922aec8dd83a8ce5"
+},
+{
+"token": "f0af9c2de58e496687a6f81e36991492",
+"category_token": "fc95c87b806f48f8a1faea2dcc2222a4",
+"nbr_annotations": 20,
+"first_annotation_token": "57a76fed3ae34a65999011d680f3fffb",
+"last_annotation_token": "5f5b044ff172498997596761c88f5e60"
+},
+{
+"token": "d8da4b1be5e14912b2a3b86ea27b7716",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 21,
+"first_annotation_token": "f67ff063d8db41a5b0412ea8b61f7a62",
+"last_annotation_token": "75350e7817de45b68559fb71092ca2d0"
+},
+{
+"token": "911ed6e0595042f7a6fde8a57825726b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 23,
+"first_annotation_token": "60bf5fa9953e449d9f8af3aef8665881",
+"last_annotation_token": "54e0c9c884eb458996633be2568c7d73"
+},
+{
+"token": "986c792f751041d38689019012a2e97b",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 24,
+"first_annotation_token": "8e4476e350a7489f8861d0c56d64a4d3",
+"last_annotation_token": "d6e8f30c7cf240d8b36836e7db7df6a3"
+},
+{
+"token": "35f7d6c968d64b0cb8a188bb0f0368e3",
+"category_token": "fd69059b62a3469fbaef25340c0eab7f",
+"nbr_annotations": 24,
+"first_annotation_token": "5cff9d7ccf9746d2a1106b3b95babb75",
+"last_annotation_token": "91c3ffb4642d4575bc6c16877c7702fb"
+},
+{
+"token": "99a4ea025ed3441fa13f519bac738163",
+"category_token": "1fa93b757fc74fb197cdd60001ad8abf",
+"nbr_annotations": 3,
+"first_annotation_token": "8f700b93fc4145b79d32123d7c0b8601",
+"last_annotation_token": "871a3201253e44b8bd2c81b2f46d70e7"
+}
+]

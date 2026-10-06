@@ -1,0 +1,16 @@
+[
+{
+"token": "53cf9c55dd8644bea67b9f009fc1ee38",
+"logfile": "n008-2018-08-01-15-16-36-0400",
+"vehicle": "n008",
+"date_captured": "2018-08-01",
+"location": "boston-seaport"
+},
+{
+"token": "8fefc430cbfa4c2191978c0df302eb98",
+"logfile": "n015-2018-11-21-19-38-26+0800",
+"vehicle": "n015",
+"date_captured": "2018-11-21",
+"location": "singapore-hollandvillage"
+}
+]

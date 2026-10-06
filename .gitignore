@@ -1,0 +1,25 @@
+instructor/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Bí mật
+.env
+*.key
+secrets*.json
+
+# File nén và model checkpoint: không commit
+*.zip
+*.tgz
+*.tar.gz
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.engine
+*.bag
+*.db3

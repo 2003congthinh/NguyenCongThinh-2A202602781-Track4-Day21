@@ -1,0 +1,18 @@
+[
+{
+"category": "semantic_prior",
+"token": "36092f0b03a857c6a3403e25b4b7aab3",
+"filename": "maps/36092f0b03a857c6a3403e25b4b7aab3.png",
+"log_tokens": [
+"53cf9c55dd8644bea67b9f009fc1ee38"
+]
+},
+{
+"category": "semantic_prior",
+"token": "37819e65e09e5547b8a3ceaefba56bb2",
+"filename": "maps/37819e65e09e5547b8a3ceaefba56bb2.png",
+"log_tokens": [
+"8fefc430cbfa4c2191978c0df302eb98"
+]
+}
+]

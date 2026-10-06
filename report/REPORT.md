@@ -1,0 +1,59 @@
+# Báo cáo Day 6: [ĐIỀN tên đề tài ngắn]
+
+> Thay **mọi** ô có chữ ĐIỀN nằm trong ngoặc vuông bằng nội dung của bạn, xoá luôn cả dấu ngoặc vuông. Lệnh `python tools/check_submission.py` sẽ báo FAIL nếu còn sót bất kỳ chỗ nào.
+
+- **Họ tên:** [ĐIỀN]
+- **MSSV:** [ĐIỀN] (phải trùng với MSSV trong tên repo `day06-<MSSV>` và tên slide `D06_<MSSV>_<Topic>.pdf`)
+- **Lớp:** [ĐIỀN]
+- **Link repo:** [ĐIỀN]
+- **Topic:** [ĐIỀN một chữ cái A/B/C/D/E/F] — [ĐIỀN tên topic]
+- **Dataset:** [ĐIỀN một hoặc nhiều trong: data/synthetic, data/kitti_mini, data/nuscenes_mini_subset, log riêng]
+- **Các frame đã dùng:** [ĐIỀN danh sách frame id, ví dụ 000011, 000049 hoặc scene-0103_010]
+
+> Báo cáo này là bản chữ của slide demo. Hãy viết ngắn: mỗi mục từ 3 đến 8 dòng, ưu tiên số liệu và hình ảnh.
+
+## 1. Claim
+
+Một câu khẳng định kỹ thuật có thể kiểm chứng. Ví dụ: *"Lệch yaw 1° làm 12% điểm LiDAR rơi ra khỏi vật thể ở 30 m, phát hiện được bằng edge-alignment score với ngưỡng X."*
+
+[ĐIỀN]
+
+## 2. Evidence
+
+Bảng hoặc plot số liệu, kèm ảnh/video demo. Ghi rõ đường dẫn file trong `results/`.
+
+| Cấu hình / mức perturb | Metric 1 | Metric 2 | Ghi chú |
+|---|---|---|---|
+| [ĐIỀN] | | | |
+
+![demo](../results/figures/[ĐIỀN].png)
+
+## 3. Failure case
+
+Nêu khi nào hệ thống hoặc phương pháp fail, vì sao fail, và liên hệ tới lớp nào trong 6 lớp debug: I/O, Geometry, Time, Preprocess, Model, Metric.
+
+![failure](../results/figures/fail_[ĐIỀN].png)
+
+[ĐIỀN]
+
+## 4. Khuyến nghị nếu triển khai thật
+
+Use-case cụ thể (ADAS / robot / drone), trade-off và bước tiếp theo.
+
+[ĐIỀN]
+
+## 5. Cách chạy lại
+
+Các lệnh tái tạo lại toàn bộ kết quả từ repo sạch.
+
+```bash
+[ĐIỀN]
+```
+
+## 6. Khai báo sử dụng AI
+
+Ghi rõ đã dùng công cụ AI nào, dùng vào việc gì, và bạn đã tự kiểm chứng kết quả đó bằng cách nào. Nếu không dùng AI, ghi "Không sử dụng". Xem quy định ở `RULES.md` mục 2.
+
+| Công cụ | Dùng cho việc gì | Bạn đã kiểm chứng thế nào |
+|---|---|---|
+| [ĐIỀN] | | |

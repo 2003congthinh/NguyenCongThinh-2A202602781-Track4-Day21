@@ -1,0 +1,2 @@
+# Giữ nguyên từng byte của dữ liệu (không đổi LF/CRLF trên Windows), để checksum trong MANIFEST.json luôn khớp
+data/** -text
