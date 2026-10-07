@@ -1,0 +1,9 @@
+rule,frame_id,evidence,how_detected
+R1 invalid points,000000,23 NaN/Inf points (0.10%),"np.isfinite on x,y,z,intensity"
+R1 invalid points,000001,23 NaN/Inf points (0.10%),"np.isfinite on x,y,z,intensity"
+R1 invalid points,000002,23 NaN/Inf points (0.10%),"np.isfinite on x,y,z,intensity"
+R1 invalid points,000003,22 NaN/Inf points (0.10%),"np.isfinite on x,y,z,intensity"
+R1 invalid points,000004,23 NaN/Inf points (0.10%),"np.isfinite on x,y,z,intensity"
+R2 sector dropout,000003,"[-40, -30] deg: 191 vs median 693, [-30, -20] deg: 222 vs median 708, [-20, -10] deg: 209 vs median 645, [-10, 0] deg: 462 vs median 697",per-bin azimuth histogram vs median of all frames
+R3 low point count,000003,22063 points vs median 23781,n_points < 95% of median
+R4 time gap,000002->000003,dt=0.200s vs median 0.100s,diff(timestamps.txt) vs median step

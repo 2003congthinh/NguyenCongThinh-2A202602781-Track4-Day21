@@ -1,0 +1,9 @@
+dataset,frame_id,n_points,image,step,runs,p50_ms,p95_ms,mean_ms,hardware
+kitti,000011,108004,1242x375,projection,30,14.31,15.62,14.27,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+kitti,000011,108004,1242x375,edge_map,30,6.01,6.74,6.04,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+kitti,000011,108004,1242x375,edge_score,30,18.45,19.52,18.42,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+kitti,000011,108004,1242x375,drift_check,30,454.91,516.11,466.35,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+nuscenes,scene-0103_030,34688,1600x900,projection,30,3.43,4.41,3.54,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+nuscenes,scene-0103_030,34688,1600x900,edge_map,30,15.11,16.99,15.2,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+nuscenes,scene-0103_030,34688,1600x900,edge_score,30,10.59,11.41,10.7,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
+nuscenes,scene-0103_030,34688,1600x900,drift_check,30,312.78,367.72,311.56,"AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD | 6 logical CPUs | Windows 10"
