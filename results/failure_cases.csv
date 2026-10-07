@@ -1,0 +1,4 @@
+case,frame,object,dist_m,truncated,hit_pct_true_calib,pct_points_outside_image,dt_ms,px_shift,hit_pct_ego,hit_pct_no_ego,box_width_px,hit_pct,gain,threshold
+fail_01_truncated_box_metric_000011.png,000011,Car,6.6,0.98,7.5,92.4,,,,,,,,
+fail_02_time_sync_no_ego_motion_scene-1094_015.png,scene-1094_015,,,,,,-36.0,22.7,98.8,97.0,,,,
+fail_03_translation_undetected_000015.png,000015,Pedestrian,24.3,,88.2,,,3.0,,,17.9,68.6,0.004,0.311
