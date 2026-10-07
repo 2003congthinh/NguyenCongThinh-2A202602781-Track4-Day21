@@ -42,14 +42,18 @@ Hoàn thành **toàn bộ** bảng dưới đây trước giờ lab. Danh sách 
 
 ### Bước 1. Tạo repo cá nhân (khoảng 5 phút, làm ở nhà)
 
-1. Tạo repo **private** tên `day06-<MSSV>` từ repo đề bài, ví dụ `day06-20240123`, bằng nút *Use this template* hoặc *Fork*.
-2. Thêm giảng viên và lab coach làm collaborator. Username của giảng viên và lab coach được thông báo trên kênh chat chung của lớp.
-3. Clone repo về máy. Repo nặng khoảng 135 MB, nên hãy clone ở nhà:
+1. Trên GitHub, tạo một repo **trống**, để **Private**, tên `day06-<MSSV>`, ví dụ `day06-20240123`. Không tick *Add a README file*, không chọn `.gitignore` hay license.
+2. Clone repo đề bài về máy, rồi đổi remote sang repo của bạn và push lên. Repo nặng khoảng 135 MB, nên hãy làm ở nhà:
 
 ```bash
-git clone <link-repo-của-bạn> day06-<MSSV>
+git clone https://github.com/VinUni-AI20k/K4-Track4-Day06-3D-From-Point-Clouds.git day06-<MSSV>
 cd day06-<MSSV>
+git remote rename origin upstream
+git remote add origin https://github.com/<username-của-bạn>/day06-<MSSV>.git
+git push -u origin main
 ```
+
+3. Thêm giảng viên và lab coach làm collaborator (*Settings → Collaborators*). Username của giảng viên và lab coach được thông báo trên kênh chat chung của lớp.
 
 ### Bước 2. Cài môi trường (khoảng 5 phút, làm ở nhà)
 

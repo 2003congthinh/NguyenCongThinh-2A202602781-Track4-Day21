@@ -61,7 +61,7 @@ python tools/check_submission.py
 Script kiểm tra các điểm sau, và in `[PASS]` hoặc `[FAIL]` cho từng điểm:
 
 - `report/REPORT.md` có đủ 6 mục và đã điền hết, không còn dấu `[ĐIỀN]`.
-- Có đúng 1 file slide PDF trong `report/`, tên đúng quy tắc `D06_<MSSV>_<Topic>.pdf`.
+- Có đúng 1 file slide PDF trong `report/`, tên đúng quy tắc `D06_<MSSV>_<Topic>.pdf`, và MSSV trong tên slide trùng với dòng **MSSV** trong REPORT.
 - `results/` có ít nhất 1 file CSV, 1 ảnh demo và 1 ảnh có tên bắt đầu bằng `fail_`.
 - Không có file nào lớn hơn 20 MB.
 - Không có dữ liệu thô hay model checkpoint nằm **ngoài** thư mục `data/`. Dữ liệu đề bài trong `data/` là hợp lệ, không bị tính lỗi.

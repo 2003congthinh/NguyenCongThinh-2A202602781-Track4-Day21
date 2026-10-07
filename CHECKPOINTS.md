@@ -9,8 +9,8 @@ Bài lab làm **cá nhân**. Mỗi checkpoint ghi rõ 4 thứ: **cần làm gì*
 ## CP0 — Chuẩn bị (làm ở nhà, trước buổi học)
 
 **Cần làm**
-1. Tạo repo **private** tên `day06-<MSSV>` từ repo đề bài, ví dụ `day06-20240123`. Thêm giảng viên và lab coach làm collaborator (username được thông báo trên kênh chat chung của lớp).
-2. Clone repo về máy **ở nhà**. Repo nặng khoảng 135 MB vì có sẵn dữ liệu, nên không clone trong giờ lab.
+1. Tạo repo **private** tên `day06-<MSSV>`, ví dụ `day06-20240123`, theo đúng các lệnh ở `README.md` mục 3, bước 1: tạo repo trống, clone repo đề bài, đổi remote, push. Thêm giảng viên và lab coach làm collaborator (username được thông báo trên kênh chat chung của lớp).
+2. Làm bước 1 **ở nhà**. Repo nặng khoảng 135 MB vì có sẵn dữ liệu, nên không clone trong giờ lab.
 3. Tạo môi trường Python và cài thư viện theo mục 3, bước 2 của `README.md`.
 4. Kiểm tra dữ liệu bằng hai lệnh dưới đây. Cả hai phải in ra dòng `[PASS]`.
    - `python tools/verify_data.py --data-root data/kitti_mini`
