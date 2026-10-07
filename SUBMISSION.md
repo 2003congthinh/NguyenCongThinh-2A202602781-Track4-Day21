@@ -1,13 +1,13 @@
 # Hướng dẫn nộp bài
 
-Bài lab làm **cá nhân**. Mỗi học viên nộp một repo và một file slide.
+Bài lab làm **cá nhân**. Mỗi học viên nộp một repo.
 
 ## 1. Deadline
 
 | Mốc | Thời gian (múi giờ **UTC+7, giờ Việt Nam**) |
 |---|---|
 | Demo trước lớp (CP6) | Trong buổi lab, **Thứ Tư 07/10/2026** |
-| **Deadline nộp repo + slide** | **23:59 Thứ Tư 07/10/2026 (UTC+7)** |
+| **Deadline nộp repo** | **23:59 Thứ Tư 07/10/2026 (UTC+7)** |
 | Hạn chót nộp muộn (bị trừ điểm) | 23:59 Thứ Năm 08/10/2026 (UTC+7) |
 
 Bài được chấm theo **commit cuối cùng có trên remote trước deadline**. Quy định về nộp muộn và sửa bài sau deadline nằm trong [RULES.md](RULES.md) mục 4 và 5.
@@ -15,9 +15,8 @@ Bài được chấm theo **commit cuối cùng có trên remote trước deadli
 ## 2. Nộp ở đâu
 
 1. Push toàn bộ bài lên repo `day06-<MSSV>` của bạn. Repo phải để **private** và đã thêm giảng viên cùng lab coach làm collaborator (username được thông báo trên kênh chat chung của lớp).
-2. Nộp lên hệ thống nộp bài của khoá học (LMS), mục bài tập **Day 6 Lab**, gồm 3 thứ:
+2. Nộp lên hệ thống nộp bài của khoá học (LMS), mục bài tập **Day 6 Lab**, gồm 2 thứ:
    - Link repo.
-   - File slide `D06_<MSSV>_<Topic>.pdf`, giống hệt file trong thư mục `report/` của repo.
    - Commit hash cuối cùng, lấy bằng lệnh `git rev-parse HEAD`.
 
 ## 3. Cấu trúc repo phải có khi nộp
@@ -32,8 +31,7 @@ day06-<MSSV>/
 │       ├── <tên_ảnh_demo>.png      # BẮT BUỘC: ít nhất 1 ảnh demo
 │       └── fail_<số>_<mô_tả>.png   # BẮT BUỘC: ít nhất 1 ảnh failure case
 └── report/
-    ├── REPORT.md                   # BẮT BUỘC: điền thông tin học viên + đủ 6 mục, không còn dấu [ĐIỀN]
-    └── D06_<MSSV>_<Topic>.pdf      # BẮT BUỘC: slide trình bày, 1–2 trang
+    └── REPORT.md                   # BẮT BUỘC: điền thông tin học viên + đủ 6 mục, không còn dấu [ĐIỀN]
 ```
 
 Video demo lớn hơn 20 MB thì **không commit** vào repo. Hãy upload lên Google Drive hoặc YouTube (chế độ không công khai), rồi dán link vào mục 2 của REPORT.
@@ -43,7 +41,6 @@ Video demo lớn hơn 20 MB thì **không commit** vào repo. Hãy upload lên G
 | Đối tượng | Quy tắc | Ví dụ |
 |---|---|---|
 | Repo | `day06-<MSSV>` | `day06-20240123` |
-| Slide | `D06_<MSSV>_<Topic>.pdf`, trong đó Topic là **một chữ in hoa** từ A đến F | `D06_20240123_A.pdf` |
 | Ảnh failure | `fail_<số thứ tự 2 chữ số>_<mô tả ngắn>.png` | `fail_01_yaw_2deg_pole.png` |
 | File CSV kết quả | `<tên_thí_nghiệm>.csv`, chữ thường, các từ nối bằng dấu gạch dưới | `yaw_perturb_sweep.csv` |
 | Commit message | `CPx: <mô tả ngắn>`, với x là số checkpoint | `CP3: yaw sweep 0-3 deg` |
@@ -61,7 +58,6 @@ python tools/check_submission.py
 Script kiểm tra các điểm sau, và in `[PASS]` hoặc `[FAIL]` cho từng điểm:
 
 - `report/REPORT.md` có đủ 6 mục và đã điền hết, không còn dấu `[ĐIỀN]`.
-- Có đúng 1 file slide PDF trong `report/`, tên đúng quy tắc `D06_<MSSV>_<Topic>.pdf`, và MSSV trong tên slide trùng với dòng **MSSV** trong REPORT.
 - `results/` có ít nhất 1 file CSV, 1 ảnh demo và 1 ảnh có tên bắt đầu bằng `fail_`.
 - Không có file nào lớn hơn 20 MB.
 - Không có dữ liệu thô hay model checkpoint nằm **ngoài** thư mục `data/`. Dữ liệu đề bài trong `data/` là hợp lệ, không bị tính lỗi.

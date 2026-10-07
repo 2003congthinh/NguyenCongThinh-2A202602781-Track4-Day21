@@ -152,13 +152,11 @@ python -m starter.projection --data-root data/kitti_mini --frame 000011
 
 ---
 
-## CP5 — Làm slide và nộp bài (1:45 – 2:00)
+## CP5 — Hoàn thiện báo cáo và nộp bài (1:45 – 2:00)
 
 **Cần làm**
-1. Làm **1 slide** (tối đa 2 slide) theo thứ tự: Claim → Evidence (bảng hoặc biểu đồ) → Ảnh demo → Failure case → Khuyến nghị triển khai.
-2. Xuất slide ra PDF, đặt tên `report/D06_<MSSV>_<Topic>.pdf`, ví dụ `report/D06_20240123_A.pdf`.
-3. Điền đủ 6 mục của `report/REPORT.md` và xoá hết các dấu `[ĐIỀN]`.
-4. Chạy kiểm tra hình thức, sửa hết lỗi, rồi commit và push.
+1. Điền đủ 6 mục của `report/REPORT.md` và xoá hết các dấu `[ĐIỀN]`.
+2. Chạy kiểm tra hình thức, sửa hết lỗi, rồi commit và push.
 
 **Sản phẩm**
 - Repo đầy đủ theo [SUBMISSION.md](SUBMISSION.md), đã push lên remote.
@@ -177,10 +175,10 @@ python tools/check_submission.py
 **Cách tổ chức**
 - Lớp có nhiều học viên, nên giảng viên sẽ **gọi ngẫu nhiên khoảng 5 học viên** lên trình bày. Mỗi người có **3 phút trình bày và 1 phút hỏi đáp**.
 - **Ai cũng phải chuẩn bị** như thể mình sẽ được gọi.
-- Người không được gọi vẫn được chấm điểm Trình bày, dựa trên slide PDF đã nộp (xem `RUBRIC.md` mục 1.5).
+- Người không được gọi vẫn được chấm điểm Trình bày, dựa trên REPORT đã nộp (xem `RUBRIC.md` mục 1.5).
 
 **Cần làm**
-- Mở sẵn slide PDF và ảnh hoặc video demo trên máy, để khi được gọi có thể trình bày ngay trong vòng 30 giây.
+- Mở sẵn `report/REPORT.md` và ảnh hoặc video demo trên máy, để khi được gọi có thể trình bày ngay trong vòng 30 giây.
 
 **Câu hỏi giảng viên có thể hỏi**
 - Claim của bạn sẽ sai trong điều kiện nào?

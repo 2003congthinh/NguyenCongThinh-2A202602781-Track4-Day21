@@ -14,7 +14,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 PLACEHOLDER_RE = re.compile(r"\[ĐIỀN[^\]]*\]")
-SLIDE_RE = re.compile(r"^D06_([A-Za-z0-9]+)_([A-F])\.pdf$")
 MSSV_RE = re.compile(r"\*\*MSSV:\*\*\s*([A-Za-z0-9]+)")
 REPORT_SECTIONS = ["## 1. Claim", "## 2. Evidence", "## 3. Failure case", "## 4. Khuyến nghị", "## 5. Cách chạy lại",
                    "## 6. Khai báo sử dụng AI"]
@@ -55,14 +54,6 @@ def main() -> int:
     mssv_match = MSSV_RE.search(text)
     mssv = mssv_match.group(1) if mssv_match else None
     check("report/REPORT.md có dòng **MSSV:** hợp lệ (chỉ chữ và số)", mssv is not None)
-
-    slides = [p.name for p in (ROOT / "report").glob("*.pdf")]
-    good = [s for s in slides if SLIDE_RE.match(s)]
-    check("Có đúng 1 slide PDF tên D06_<MSSV>_<Topic>.pdf", len(good) == 1, f"tìm thấy: {slides or 'không có PDF'}")
-    if len(good) == 1 and mssv:
-        slide_mssv = SLIDE_RE.match(good[0]).group(1)
-        check("MSSV trong tên slide trùng với MSSV trong REPORT", slide_mssv == mssv,
-              f"slide ghi {slide_mssv}, REPORT ghi {mssv}")
 
     res = ROOT / "results"
     csvs = list(res.rglob("*.csv")) if res.exists() else []

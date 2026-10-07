@@ -137,5 +137,5 @@ Lưu ý khi lấy thêm dữ liệu:
 ## 5. Bản quyền
 
 - KITTI phát hành theo giấy phép **CC BY-NC-SA 3.0**, nuScenes theo **CC BY-NC-SA 4.0**. Cả hai **chỉ được dùng cho học tập và nghiên cứu phi thương mại**.
-- Khi đưa ảnh từ dataset vào slide hoặc báo cáo, ghi nguồn "KITTI Vision Benchmark Suite" hoặc "nuScenes (Motional)".
+- Khi đưa ảnh từ dataset vào báo cáo, ghi nguồn "KITTI Vision Benchmark Suite" hoặc "nuScenes (Motional)".
 - Repo của bạn phải để **private**, vì repo có chứa dữ liệu của hai dataset này.

@@ -54,19 +54,19 @@ Bài lab làm **cá nhân**. Điểm của mỗi học viên tính như sau:
 | Đạt | 5–8 | Có nhắc use-case nhưng chung chung, không nêu đánh đổi cụ thể |
 | Không đạt | 0–4 | Không liên hệ thực tế |
 
-**Bằng chứng cần có:** mục 4 của REPORT, slide.
+**Bằng chứng cần có:** mục 4 của REPORT.
 
 ### 1.5 Trình bày — 10 điểm
 
-Học viên được gọi lên demo (CP6) chấm theo phần trình bày và trả lời câu hỏi. Học viên không được gọi chấm theo slide PDF và REPORT đã nộp. Cả hai trường hợp dùng chung thang điểm sau:
+Học viên được gọi lên demo (CP6) chấm theo phần trình bày và trả lời câu hỏi. Học viên không được gọi chấm theo REPORT đã nộp. Cả hai trường hợp dùng chung thang điểm sau:
 
 | Mức | Điểm | Mô tả |
 |---|---|---|
-| Xuất sắc | 9–10 | Một claim rõ ràng, slide gọn trong 1–2 trang, người đọc hiểu được kết quả chính mà không cần giải thích thêm. Nếu được gọi lên: nói đúng giờ (3 phút) và trả lời được câu hỏi |
-| Đạt | 5–8 | Nội dung đúng nhưng slide rối hoặc nhiều chữ. Nếu được gọi lên: quá giờ hoặc trả lời chưa chắc chắn |
-| Không đạt | 0–4 | Không có claim, slide không đọc được. Nếu được gọi lên: không trả lời được câu hỏi |
+| Xuất sắc | 9–10 | Một claim rõ ràng, REPORT gọn, người đọc hiểu được kết quả chính mà không cần giải thích thêm. Nếu được gọi lên: nói đúng giờ (3 phút) và trả lời được câu hỏi |
+| Đạt | 5–8 | Nội dung đúng nhưng REPORT rối hoặc dài dòng. Nếu được gọi lên: quá giờ hoặc trả lời chưa chắc chắn |
+| Không đạt | 0–4 | Không có claim, REPORT khó đọc. Nếu được gọi lên: không trả lời được câu hỏi |
 
-**Bằng chứng cần có:** slide PDF `report/D06_<MSSV>_<Topic>.pdf`, phần trình bày ở CP6 nếu được gọi.
+**Bằng chứng cần có:** `report/REPORT.md`, phần trình bày ở CP6 nếu được gọi.
 
 ---
 

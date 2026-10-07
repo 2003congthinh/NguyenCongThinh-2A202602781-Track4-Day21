@@ -9,7 +9,7 @@ Bài lab làm **cá nhân**. Trong 2 giờ, mỗi học viên chọn **1 trong 6
 1. Chạy được một demo thật trên dữ liệu thật hoặc dữ liệu mẫu.
 2. Làm một benchmark hoặc stress test nhỏ, có ít nhất 3 mức so sánh, ra bảng số liệu.
 3. Tìm ra ít nhất một trường hợp phương pháp hoạt động sai (failure case) và giải thích nguyên nhân.
-4. Làm 1 slide tóm tắt kết quả. Cuối buổi, giảng viên gọi ngẫu nhiên một số học viên lên trình bày slide đó trong 3 phút.
+4. Viết báo cáo ngắn `report/REPORT.md`. Cuối buổi, giảng viên gọi ngẫu nhiên một số học viên lên trình bày kết quả trong 3 phút.
 
 > Bài lab **không chấm theo việc dùng model mới nhất hay code dài**. Bài chấm theo khả năng biến một câu hỏi mơ hồ (ví dụ "calibration lệch thì sao?") thành một thí nghiệm có số liệu và hình ảnh làm bằng chứng. Thang điểm chi tiết nằm trong [RUBRIC.md](RUBRIC.md).
 
@@ -119,8 +119,8 @@ Thời gian tính từ lúc bắt đầu phần lab, sau phần lý thuyết.
 | 0:15 – 0:50 | CP2 | Viết TODO projection, chạy demo đầu tiên của topic | Ảnh demo đầu tiên trong `results/figures/` |
 | 0:50 – 1:25 | CP3 | Chạy thí nghiệm chính với ít nhất 3 mức | File CSV kết quả + 1 biểu đồ hoặc bảng |
 | 1:25 – 1:45 | CP4 | Tìm và phân tích failure case | Ảnh `results/figures/fail_*.png` + giải thích trong REPORT |
-| 1:45 – 2:00 | CP5 | Làm slide, hoàn thiện REPORT, chạy `check_submission` | File slide PDF, repo đã push |
-| 2:00 – 2:20 | CP6 | Giảng viên gọi ngẫu nhiên khoảng 5 học viên, mỗi người trình bày 3 phút + 1 phút hỏi đáp | Ai cũng chuẩn bị sẵn slide để trình bày |
+| 1:45 – 2:00 | CP5 | Hoàn thiện REPORT, chạy `check_submission`, push | REPORT đủ 6 mục, repo đã push |
+| 2:00 – 2:20 | CP6 | Giảng viên gọi ngẫu nhiên khoảng 5 học viên, mỗi người trình bày 3 phút + 1 phút hỏi đáp | Phần trình bày |
 
 Mỗi checkpoint ghi rõ cần làm gì, cần hiểu gì và cách tự kiểm tra trong [CHECKPOINTS.md](CHECKPOINTS.md).
 
@@ -163,8 +163,7 @@ day06-<MSSV>/
 ├── src/                    # BẠN VIẾT: toàn bộ code bạn tự viết đặt ở đây
 ├── results/                # BẠN TẠO: file CSV số liệu, thư mục figures/ chứa ảnh
 ├── report/
-│   ├── REPORT.md           # BẠN ĐIỀN: thông tin học viên + báo cáo dạng chữ, 6 mục
-│   └── D06_<MSSV>_<Topic>.pdf  # BẠN TẠO: slide trình bày
+│   └── REPORT.md           # BẠN ĐIỀN: thông tin học viên + báo cáo dạng chữ, 6 mục
 └── tools/
     ├── check_submission.py       # kiểm tra bài trước khi nộp
     ├── verify_data.py            # kiểm tra dữ liệu trong data/ có đủ và không hỏng
