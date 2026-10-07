@@ -34,26 +34,25 @@ Hoàn thành **toàn bộ** bảng dưới đây trước giờ lab. Danh sách 
 | Kiến thức | Đọc lại slide Day 6, đặc biệt slide 5–9 (point cloud), 17 (quy ước 3D box), 22–23 (projection và 10 lỗi projection hay gặp), 30 (6 lớp debug). Ôn lại phép biến đổi rigid transform và calibration của Day 4–5 |
 | Phần mềm | Cài Python 3.10 trở lên, Git, VS Code hoặc Cursor. Nếu chọn topic D, cài thêm `pip install open3d`. Nếu chọn topic B, hoặc topic C có dùng model, phải cài sẵn MMDetection3D hoặc OpenPCDet trên máy có GPU NVIDIA và chạy được demo của thư viện đó trên 1 frame |
 | Dữ liệu | **Có sẵn trong repo**, không cần tải riêng: dữ liệu mẫu `data/synthetic/`, 20 frame KITTI trong `data/kitti_mini/`, và 2 scene nuScenes trong `data/nuscenes_mini_subset/`. Repo nặng khoảng 135 MB, vì vậy **hãy clone ở nhà trước buổi học** để không làm quá tải mạng của lớp. Mô tả chi tiết dữ liệu nằm trong [data/README.md](data/README.md) |
-| Repo | Tạo repo cá nhân và clone về máy **ở nhà**, theo mục 3, bước 1 |
+| Repo | Fork repo đề bài và clone về máy **ở nhà**, theo mục 3, bước 1 |
 
 > **Quy định nếu muốn chạy detector (topic B, hoặc topic C có dùng model):** nếu đến đầu giờ lab mà môi trường GPU của bạn vẫn chưa chạy được demo, bạn **phải đổi** sang một trong ba lựa chọn không cần GPU: topic A, topic E, hoặc topic C ở mức Basic (chỉ đo trên dữ liệu, không dùng model). Không được dùng thời gian lab để sửa lỗi cài đặt CUDA.
 
 ## 3. Cách bắt đầu
 
-### Bước 1. Tạo repo cá nhân (khoảng 5 phút, làm ở nhà)
+### Bước 1. Fork repo đề bài (khoảng 5 phút, làm ở nhà)
 
-1. Trên GitHub, tạo một repo **trống**, để **Private**, tên `day06-<MSSV>`, ví dụ `day06-20240123`. Không tick *Add a README file*, không chọn `.gitignore` hay license.
-2. Clone repo đề bài về máy, rồi đổi remote sang repo của bạn và push lên. Repo nặng khoảng 135 MB, nên hãy làm ở nhà:
+1. Đăng nhập GitHub, mở [repo đề bài](https://github.com/VinUni-AI20k/K4-Track4-Day06-3D-From-Point-Clouds) và bấm nút **Fork** ở góc trên bên phải.
+2. Ở trang *Create a new fork*: ô *Owner* chọn tài khoản cá nhân của bạn, ô *Repository name* đặt theo cú pháp `<HoVaTen>-<MSSV>-Track4-Day21`. Họ tên viết liền, không dấu, viết hoa chữ cái đầu mỗi từ, ví dụ `NguyenVanA-20240123-Track4-Day21`. Bấm **Create fork**.
+3. Clone bản fork về máy. Repo nặng khoảng 135 MB, nên hãy làm ở nhà:
 
 ```bash
-git clone https://github.com/VinUni-AI20k/K4-Track4-Day06-3D-From-Point-Clouds.git day06-<MSSV>
-cd day06-<MSSV>
-git remote rename origin upstream
-git remote add origin https://github.com/<username-của-bạn>/day06-<MSSV>.git
-git push -u origin main
+git clone https://github.com/<username>/<HoVaTen>-<MSSV>-Track4-Day21.git
+cd <HoVaTen>-<MSSV>-Track4-Day21
+git remote add upstream https://github.com/VinUni-AI20k/K4-Track4-Day06-3D-From-Point-Clouds.git
 ```
 
-3. Thêm giảng viên và lab coach làm collaborator (*Settings → Collaborators*). Username của giảng viên và lab coach được thông báo trên kênh chat chung của lớp.
+Remote `upstream` dùng để lấy bản cập nhật của đề bài (`git pull upstream main`) khi giảng viên thông báo.
 
 ### Bước 2. Cài môi trường (khoảng 5 phút, làm ở nhà)
 
@@ -114,7 +113,7 @@ Thời gian tính từ lúc bắt đầu phần lab, sau phần lý thuyết.
 
 | Thời gian | Checkpoint | Việc chính | Sản phẩm phải có khi kết thúc |
 |---|---|---|---|
-| Trước buổi | CP0 | Tạo repo cá nhân, cài môi trường, kiểm tra dữ liệu | Repo `day06-<MSSV>` đã clone, `data_health` chạy được |
+| Trước buổi | CP0 | Fork repo đề bài, cài môi trường, kiểm tra dữ liệu | Bản fork `<HoVaTen>-<MSSV>-Track4-Day21` đã clone, `data_health` chạy được |
 | 0:00 – 0:15 | CP1 | Chọn topic và dataset, viết câu claim cần chứng minh | Mục 1 của `report/REPORT.md` có claim nháp |
 | 0:15 – 0:50 | CP2 | Viết TODO projection, chạy demo đầu tiên của topic | Ảnh demo đầu tiên trong `results/figures/` |
 | 0:50 – 1:25 | CP3 | Chạy thí nghiệm chính với ít nhất 3 mức | File CSV kết quả + 1 biểu đồ hoặc bảng |
@@ -140,7 +139,7 @@ Yêu cầu chi tiết của từng topic theo 3 mức Basic, Good, Advanced, kè
 ## 6. Cấu trúc repo
 
 ```
-day06-<MSSV>/
+<HoVaTen>-<MSSV>-Track4-Day21/
 ├── README.md               # file này: tổng quan và cách bắt đầu
 ├── TOPICS.md               # yêu cầu chi tiết của 6 topic
 ├── CHECKPOINTS.md          # CP0–CP6: cần làm gì, sản phẩm, cách tự kiểm tra

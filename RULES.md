@@ -55,7 +55,7 @@ Không khai báo sử dụng AI bị trừ 10 điểm (xem `RUBRIC.md` mục 3).
 - `tools/check_submission.py` có quét các dạng key phổ biến, nhưng bạn vẫn phải tự kiểm tra.
 
 **Dữ liệu**
-- Dữ liệu KITTI và nuScenes trong thư mục `data/` có giấy phép CC BY-NC-SA: chỉ dùng cho học tập và nghiên cứu phi thương mại. **Không** chuyển repo sang chế độ public, và **không** chia sẻ thư mục `data/` ra ngoài lớp học.
+- Dữ liệu KITTI và nuScenes trong thư mục `data/` có giấy phép CC BY-NC-SA: chỉ dùng cho học tập và nghiên cứu phi thương mại. **Không** dùng dữ liệu này cho mục đích thương mại.
 - **Không sửa và không xoá** file trong `data/kitti_mini/`, `data/nuscenes_mini_subset/` và `data/synthetic/`. Nếu cần dữ liệu đã biến đổi (ví dụ bỏ bớt điểm cho topic C), hãy tạo trong code và lưu kết quả vào `results/`, không ghi đè lên dữ liệu gốc.
 - **Không commit** dữ liệu bạn tự tải thêm (xem `data/README.md` mục 4) hay các file nén `.zip`/`.tgz`, vì chúng làm repo nặng.
 - Nếu dùng dữ liệu log thật của công ty hoặc dự án cá nhân: chỉ dùng khi đã được phép, và phải che thông tin nhạy cảm (biển số xe, khuôn mặt, toạ độ GPS) trước khi đưa ảnh vào báo cáo.

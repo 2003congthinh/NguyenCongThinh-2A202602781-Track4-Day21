@@ -14,7 +14,7 @@ Bài được chấm theo **commit cuối cùng có trên remote trước deadli
 
 ## 2. Nộp ở đâu
 
-1. Push toàn bộ bài lên repo `day06-<MSSV>` của bạn. Repo phải để **private** và đã thêm giảng viên cùng lab coach làm collaborator (username được thông báo trên kênh chat chung của lớp).
+1. Push toàn bộ bài lên bản fork `<HoVaTen>-<MSSV>-Track4-Day21` của bạn.
 2. Nộp lên hệ thống nộp bài của khoá học (LMS), mục bài tập **Day 6 Lab**, gồm 2 thứ:
    - Link repo.
    - Commit hash cuối cùng, lấy bằng lệnh `git rev-parse HEAD`.
@@ -22,7 +22,7 @@ Bài được chấm theo **commit cuối cùng có trên remote trước deadli
 ## 3. Cấu trúc repo phải có khi nộp
 
 ```
-day06-<MSSV>/
+<HoVaTen>-<MSSV>-Track4-Day21/
 ├── src/                            # BẮT BUỘC: toàn bộ code bạn tự viết (script .py hoặc notebook .ipynb)
 ├── starter/projection.py           # BẮT BUỘC với topic A, C, E, F: đã viết 2 hàm TODO(CP2)
 ├── results/
@@ -40,7 +40,7 @@ Video demo lớn hơn 20 MB thì **không commit** vào repo. Hãy upload lên G
 
 | Đối tượng | Quy tắc | Ví dụ |
 |---|---|---|
-| Repo | `day06-<MSSV>` | `day06-20240123` |
+| Repo (bản fork) | `<HoVaTen>-<MSSV>-Track4-Day21`, họ tên viết liền, không dấu, viết hoa chữ cái đầu mỗi từ | `NguyenVanA-20240123-Track4-Day21` |
 | Ảnh failure | `fail_<số thứ tự 2 chữ số>_<mô tả ngắn>.png` | `fail_01_yaw_2deg_pole.png` |
 | File CSV kết quả | `<tên_thí_nghiệm>.csv`, chữ thường, các từ nối bằng dấu gạch dưới | `yaw_perturb_sweep.csv` |
 | Commit message | `CPx: <mô tả ngắn>`, với x là số checkpoint | `CP3: yaw sweep 0-3 deg` |

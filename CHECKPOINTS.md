@@ -9,7 +9,7 @@ Bài lab làm **cá nhân**. Mỗi checkpoint ghi rõ 4 thứ: **cần làm gì*
 ## CP0 — Chuẩn bị (làm ở nhà, trước buổi học)
 
 **Cần làm**
-1. Tạo repo **private** tên `day06-<MSSV>`, ví dụ `day06-20240123`, theo đúng các lệnh ở `README.md` mục 3, bước 1: tạo repo trống, clone repo đề bài, đổi remote, push. Thêm giảng viên và lab coach làm collaborator (username được thông báo trên kênh chat chung của lớp).
+1. Fork repo đề bài, đặt tên theo cú pháp `<HoVaTen>-<MSSV>-Track4-Day21`, ví dụ `NguyenVanA-20240123-Track4-Day21`, rồi clone về máy, theo đúng `README.md` mục 3, bước 1.
 2. Làm bước 1 **ở nhà**. Repo nặng khoảng 135 MB vì có sẵn dữ liệu, nên không clone trong giờ lab.
 3. Tạo môi trường Python và cài thư viện theo mục 3, bước 2 của `README.md`.
 4. Kiểm tra dữ liệu bằng hai lệnh dưới đây. Cả hai phải in ra dòng `[PASS]`.
@@ -18,7 +18,7 @@ Bài lab làm **cá nhân**. Mỗi checkpoint ghi rõ 4 thứ: **cần làm gì*
 5. Nếu định làm topic B, hoặc topic C có dùng model: cài MMDetection3D hoặc OpenPCDet trên máy có GPU NVIDIA và chạy được demo của thư viện trên 1 frame.
 
 **Sản phẩm**
-- Repo `day06-<MSSV>` đã tạo trên remote và đã clone về máy.
+- Bản fork `<HoVaTen>-<MSSV>-Track4-Day21` đã có trên GitHub và đã clone về máy.
 - Dòng thông tin học viên ở đầu `report/REPORT.md` đã điền: họ tên, MSSV, lớp, link repo.
 
 **Cần hiểu**
